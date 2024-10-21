@@ -15,9 +15,21 @@ The Event Manager App, named **Eventia**, is designed to provide users with an i
 
 - **User Authentication and Role Management**: Users can register, log in, and log out of the application. Roles include regular users and administrators. Regular users can view and register for events, while administrators can create, modify, and delete events and manage users.
 
+  ![image](https://github.com/user-attachments/assets/4039314c-6c1f-46b0-8e3c-40c059aea982)
+
+  ![image](https://github.com/user-attachments/assets/1d5418cb-eda6-4bcc-973d-8f7930712d0a)
+
 - **Event Management**: Create, update, and delete events. Users can filter events by criteria such as date, location, and keywords. Registered users can also view all events they are enrolled in.
 
+![image](https://github.com/user-attachments/assets/c7f480d2-c126-4366-8014-15ad8f3dbf51)
+
 - **Administrative Panel**: Administrators can manage all events and users, including promoting or demoting user roles and handling event listings.
+
+![image](https://github.com/user-attachments/assets/095d49e3-333a-422a-866d-a04fa793bc17)
+
+![image](https://github.com/user-attachments/assets/3b70faa7-aeed-4667-b0d8-b126c3ef18d1)
+
+![image](https://github.com/user-attachments/assets/9a8f6b31-e22c-48df-9971-d7b419ac3958)
 
 - **Dynamic UI Updates with AJAX**: AJAX is used to make dynamic updates, such as joining an event or filtering events, without requiring a full page reload.
 
