@@ -1,5 +1,8 @@
 # Welcome to my Event Management Application repository: Eventia
 
+![image](https://github.com/user-attachments/assets/ae014d5f-6718-40be-a80a-4c62fa6d7d12)
+
+
 ## Event Manager App
 
 A Jakarta EE-based web application to create, manage, and join events. Features include user roles, dynamic content with AJAX, and database interaction via JDBC. Designed for seamless event management, this app showcases practical use of JSP, Servlets, and MVC architecture.
